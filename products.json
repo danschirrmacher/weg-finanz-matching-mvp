@@ -1,0 +1,153 @@
+[
+  {
+    "id": "kostenfokus_10",
+    "anbieter": "HanseBank",
+    "produkt": "KostenFokus 10",
+    "region": [
+      "DE"
+    ],
+    "finanzierbarerAnteil": 100,
+    "minGesamtvolumen": 50000,
+    "maxGesamtvolumen": 4000000,
+    "minVolumenET": 5000,
+    "maxVolumenET": 50000,
+    "maxVolumenWE": 45000,
+    "alterEigentuemerMax": 70,
+    "laufzeiten": [
+      10,
+      15
+    ],
+    "zinsMin": 4.5,
+    "zinsMax": 6.0,
+    "sotiMoeglich": false,
+    "grundschuld": false,
+    "persHaftung": false,
+    "bonitaetspruefung": false,
+    "enthaeftung": true,
+    "kfwMoeglich": false,
+    "foerderungMoeglich": false,
+    "verwendung": [
+      "sanierung",
+      "modernisierung",
+      "egal"
+    ],
+    "verwendungsnachweis": true,
+    "kontoPflicht": true,
+    "kontokostenPM": 0,
+    "anforderungen": [],
+    "sonstigeKosten": null,
+    "zusatzinfos": "Kontoführung aktuell kostenfrei"
+  },
+  {
+    "id": "foerderpro_10",
+    "anbieter": "NordCredit",
+    "produkt": "FörderPro 10",
+    "region": [
+      "DE"
+    ],
+    "finanzierbarerAnteil": 100,
+    "minGesamtvolumen": 50000,
+    "maxGesamtvolumen": 4000000,
+    "minVolumenET": 5000,
+    "maxVolumenET": 50000,
+    "maxVolumenWE": 45000,
+    "alterEigentuemerMax": 70,
+    "laufzeiten": [
+      10,
+      15
+    ],
+    "zinsMin": 4.2,
+    "zinsMax": 5.8,
+    "sotiMoeglich": false,
+    "grundschuld": false,
+    "persHaftung": false,
+    "bonitaetspruefung": false,
+    "enthaeftung": false,
+    "kfwMoeglich": true,
+    "foerderungMoeglich": true,
+    "verwendung": [
+      "sanierung",
+      "modernisierung"
+    ],
+    "verwendungsnachweis": true,
+    "kontoPflicht": true,
+    "kontokostenPM": 3,
+    "anforderungen": [],
+    "sonstigeKosten": null,
+    "zusatzinfos": "Förderprogramme möglich, Nachweise erforderlich"
+  },
+  {
+    "id": "regio_by_10",
+    "anbieter": "BayernSpark",
+    "produkt": "Regio BY Sanierung",
+    "region": [
+      "BY"
+    ],
+    "finanzierbarerAnteil": 100,
+    "minGesamtvolumen": 50000,
+    "maxGesamtvolumen": 1200000,
+    "minVolumenET": 5000,
+    "maxVolumenET": 40000,
+    "maxVolumenWE": 35000,
+    "alterEigentuemerMax": 70,
+    "laufzeiten": [
+      10
+    ],
+    "zinsMin": 4.9,
+    "zinsMax": 6.2,
+    "sotiMoeglich": false,
+    "grundschuld": false,
+    "persHaftung": false,
+    "bonitaetspruefung": false,
+    "enthaeftung": true,
+    "kfwMoeglich": true,
+    "foerderungMoeglich": true,
+    "verwendung": [
+      "sanierung"
+    ],
+    "verwendungsnachweis": true,
+    "kontoPflicht": true,
+    "kontokostenPM": 2,
+    "anforderungen": [],
+    "sonstigeKosten": null,
+    "zusatzinfos": "Nur Bayern (BY)"
+  },
+  {
+    "id": "ko_grundschuld_10",
+    "anbieter": "AlphaBank",
+    "produkt": "Grundschuld Classic",
+    "region": [
+      "DE"
+    ],
+    "finanzierbarerAnteil": 100,
+    "minGesamtvolumen": 50000,
+    "maxGesamtvolumen": 4000000,
+    "minVolumenET": 5000,
+    "maxVolumenET": 50000,
+    "maxVolumenWE": 45000,
+    "alterEigentuemerMax": 70,
+    "laufzeiten": [
+      10,
+      15
+    ],
+    "zinsMin": 4.0,
+    "zinsMax": 5.5,
+    "sotiMoeglich": false,
+    "grundschuld": true,
+    "persHaftung": false,
+    "bonitaetspruefung": false,
+    "enthaeftung": false,
+    "kfwMoeglich": false,
+    "foerderungMoeglich": false,
+    "verwendung": [
+      "sanierung",
+      "modernisierung"
+    ],
+    "verwendungsnachweis": true,
+    "kontoPflicht": true,
+    "kontokostenPM": 4,
+    "anforderungen": [],
+    "sonstigeKosten": null,
+    "zusatzinfos": "Grundschuld erforderlich (KO)"
+  }
+]
