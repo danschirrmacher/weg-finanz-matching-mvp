@@ -142,5 +142,5 @@ if submitted:
         u3b = {**u3a, "profil": "FÖRDERFOKUS"}
         r_std = rank_products(products, u3a)
         r_ff  = rank_products(products, u3b)
-        st.write("Fall 3 – Ranking STANDARD:", [ (r['produktId'], r['score']) for r in r_std ]))
+        st.write("Fall 3 – Ranking STANDARD:", [ (r['produktId'], r['score']) for r in r_std ])
         st.write("Fall 3 – Ranking FÖRDERFOKUS:", [ (r['produktId'], r['score']) for r in r_ff ])
