@@ -6,8 +6,8 @@ from typing import List, Dict, Any
 from matching import rank_products, visible_and_ko, HIGHLIGHT_LABELS
 
 st.set_page_config(page_title="WEfiMa (MVP)", layout="wide")
-st.title("🏢 WEG-FiMa – MVP")
-st.caption("scoring_v1 · datengetrieben · KO vor Scoring · Profile verändern Gewichtungen")
+st.title("🏢 WEG-FiMa (MVP) V1.0")
+st.caption("scoring_v1 · datengetrieben · K.O. vor Scoring · Profile verändern Gewichtungen")
 
 @st.cache_data
 def load_products() -> List[Dict[str, Any]]:
