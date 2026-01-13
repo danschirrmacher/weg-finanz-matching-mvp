@@ -6,7 +6,7 @@ from typing import List, Dict, Any
 from matching import rank_products, visible_and_ko, HIGHLIGHT_LABELS
 
 st.set_page_config(page_title="WEfiMa (MVP)", layout="wide")
-st.title("🏢 WEG-Finanzierungs-Matching – MVP")
+st.title("🏢 WEG-FiMa – MVP")
 st.caption("scoring_v1 · datengetrieben · KO vor Scoring · Profile verändern Gewichtungen")
 
 @st.cache_data
